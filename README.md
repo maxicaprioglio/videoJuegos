@@ -19,3 +19,7 @@ Está inspirado en los juegos clásicos de fichines, con estilo pixel art y mús
 - Caprioglio Maximiliano (Matrícula: 144944) 
 - Godoy Candela (Matrícula: 145549) 
 
+## Enlaces importantes
+- GDD: [https://docs.google.com/document/d/1HbUeOMPuJnlQsug7EyPz9VtRPBdu2n4Oy7E2G0ByjwM/edit?usp=sharing]
+- Trello: [https://trello.com/b/J4vPrP0K/dise%C3%B1o-y-desarrollo-de-video-juegos-i]
+
