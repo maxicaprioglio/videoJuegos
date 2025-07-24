@@ -12,6 +12,9 @@ Está inspirado en los juegos clásicos de fichines, con estilo pixel art y mús
 - Disparo: **Espacio** o click del mouse
 - Bombas (si están activas): tecla a definir
 
+## Juego ejecutable
+- se encuentra en la carpeta app
+
 ## Integrantes
 - Caprioglio Maximiliano (Matrícula: 144944) 
 - Godoy Candela (Matrícula: 145549) 
